@@ -1,0 +1,22 @@
+.for-table-white{
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+    min-height: 50vh;
+    padding: 15px;
+}
+.add-input{
+    width: 500px;
+}
+.add-button{
+    margin-left: 35px;
+    width: 500px;
+}
+.all-input-out-line{
+    box-shadow: none!important;
+}
+.img-call-back{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

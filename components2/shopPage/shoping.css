@@ -1,0 +1,115 @@
+body{
+    font-family: Lato!important;
+    min-height: 100%!important;
+    background-color: #F0F2F5!important;
+}
+.site-layout-background{
+    height: 100vh!important;
+}
+.logo{
+    margin-top: 40px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    color: #199FFF;
+    text-align: center;
+}
+.mt-5-top{
+    margin-top: 14%;
+}
+.mt-5-top2{
+    margin-top: 10%;
+}
+a{
+    text-decoration: none!important;
+}
+.ant-layout-sider-children{
+    background-color: #FFFFFF;
+}
+.menuText{
+    color: #199FFF!important;
+    margin-left: 10px;
+}
+.forMenu{
+    margin-top: 50px!important;
+}
+.forSearch{
+display: flex;
+}
+.inputSearch{
+    margin-left: 50px;
+    padding: 0 15px;
+    border-radius: 14px 0 0 14px;
+    border: 0;
+    outline: none;
+    margin-top:30px;
+    width: 380px;
+    height: 45px;
+}
+.for-img-search{
+    cursor: pointer;
+    border-radius: 0 14px 14px 0;
+    margin-top: 30px;
+    padding: 1px 14px;
+    justify-content: space-between;
+    width: 60px;
+    height: 45px;
+    font-size: 25px;
+    background-color: #2ff3db;
+}
+.img-shop{
+    width: 25px;
+    height: 27px;
+}
+.for-right-menu{
+  display: flex;
+}
+.for-right-menu-text{
+    margin-left: 5px;
+}
+.for-right-menu-text1{
+    border-bottom:1px solid  #199FFF;
+}
+.for-menu-rigth{
+    margin-left: 55px;
+    margin-top: 80px;
+}
+.all-rigth-menu{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+.addShoping{
+    cursor: pointer;
+    padding: 0 20px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 65px;
+    margin-right: 50px;
+    border-radius: 25px;
+    width: 121px;
+    height: 50px;
+    background-color: white;
+}
+.for-table{
+    margin-top: 20px;
+}
+.header-table{
+    color: white;
+    background-color:  #00A4EF!important;
+}
+.body-table{
+    background-color: white!important;
+}
+.edite{
+    width: 18px;
+    cursor: pointer;
+}
+.dlete{
+    margin-right: 10px;
+    width: 22px;
+    cursor: pointer;
+}

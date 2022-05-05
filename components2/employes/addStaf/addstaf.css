@@ -1,0 +1,38 @@
+.addAmploye{
+    padding: 15px;
+    margin-top: 20px;
+    width: 100%;
+    min-height: 60vh;
+    background-color: white;
+}
+.right-input-add{
+    width: 500px;
+}
+.left-input-add{
+    width: 500px;
+    margin-left: 30px;
+    margin-top: -23px;
+}
+input{
+    box-shadow: none!important;
+}
+button{
+    box-shadow: none!important;
+}
+.close-btn{
+    width: 500px;
+    margin-left:24%;
+}
+.btn-success1{
+    width: 230px!important;
+}
+.btn-danger1{
+    width: 230px!important;
+}
+.form-control1{
+    width: 500px;
+    height: 37px!important;
+}
+.img-shop1{
+    height:  28px;
+}
